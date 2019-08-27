@@ -1,0 +1,7 @@
+/.idea/
+/target/
+/.project
+/event-filter.iml
+/.settings/
+.DS_Store
+
